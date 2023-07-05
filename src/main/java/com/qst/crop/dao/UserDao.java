@@ -1,6 +1,6 @@
 package com.qst.crop.dao;
 
-import com.example.rouxiaoshixun.entity.User;
+import com.qst.crop.entity.User;
 import org.apache.ibatis.annotations.Mapper;
 import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Repository;
